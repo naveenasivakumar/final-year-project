@@ -1,0 +1,1 @@
+"""Medical diffusion application package."""

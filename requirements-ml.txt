@@ -1,0 +1,8 @@
+-r requirements.txt
+numpy
+matplotlib
+torch
+torchvision
+diffusers
+transformers
+timm
